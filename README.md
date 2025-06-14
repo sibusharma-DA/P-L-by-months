@@ -42,5 +42,8 @@ Easy-to-read layout for finance and non-finance stakeholders
 📊 Project Summary (For Resume)
 Developed a P&L by Month Excel Dashboard using advanced Excel tools such as Power Query, Pivot Tables, and Conditional Formatting. This report provided interactive views of financial metrics with monthly and quarterly breakdowns, enabling business teams to track profitability and operational performance. Designed with user-friendly filters (region, market, division, customer) and optimized for executive reporting. This project highlights strong skills in Excel-based data modeling, financial analysis, and dashboarding, making it suitable for data analyst roles in finance and operations.
  
-ScreenShoot--> https://github.com/sibusharma-DA/P-L-by-months/blob/main/P%20%26L%20by%20monthScreenshot.png
+P & L Png--> https://github.com/sibusharma-DA/P-L-by-months/blob/main/P%20%26L%20by%20monthScreenshot.png
+
+Sales Market Png----> SalesMarketReportScreenshot.png
+
 
