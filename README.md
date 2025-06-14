@@ -44,6 +44,6 @@ Developed a P&L by Month Excel Dashboard using advanced Excel tools such as Powe
  
 P & L Png--> https://github.com/sibusharma-DA/P-L-by-months/blob/main/P%20%26L%20by%20monthScreenshot.png
 
-Sales Market Png----> SalesMarketReportScreenshot.png
+Sales Market Png----> [SalesMarketReportScreenshot.png](https://github.com/sibusharma-DA/P-L-by-months/blob/main/SalesMarketReportScreenshot.png)
 
 
